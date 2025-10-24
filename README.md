@@ -1,5 +1,5 @@
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=header)
-# 👾 Vinayak.io
+# 👾 Ruchitha1608
 
 ```shell
 > Initializing AI Systems... ✅  
@@ -26,34 +26,11 @@
 > System Status: Always Experimenting... ⚡  
 > Current Focus: AI Agents, RL, and pushing the limits of automation  
 > Next Move: Building AI that builds AI 🚀  
-
-## 🏆 Hackathon Achievements
-
-- 🥇 **1st Place** at IIIT Nagpur Genathon 2.0 (National Level)
-- 🥇 **1st Place** at Airavat AI Hackathon 2025 ( National Level)
-- 🥇 **1st Place** at Level Up Hackathon 2025 by KJSIT College
-- 🥈 **2nd Place** at Logithin 2.0 ( IITB) (National Level)
-- 🥈 **Runners-Up** at AIQuest Hackathon (IIT Bombay Techfest '24)
-- 🥈 **Runners-Up** at Classifi Hackathon (IIT Bombay Techfest '24)
-- 🥉 **3rd Place** in MLFiesta Hackathon (IIIT Bangalore)
-- 🥉 **3rd Place** in Wall Streets Analytics Challenge (BITS PILANI HYDERABAD)
-- 🥇 **1st Place** in Hackanova 5.0 in the AIML Domain 
-- 📈 **World Rank 6** in Zelestra X AWS ML Ascend Challenge
-- 💪 **Finalist** in Smart India Hackathon for Alumni Connect
-- 🥇 **1st Place** at SPIT Hackathon (AIML Domain)
-- 🥈 **2nd Place** at Datathon 5.0 (Generative AI Track, KJSCE)
-- 🏆 **5th Place** at Technovate Hack at SPIT College 
-- 📈 **AIR 101** at Amazon ML Challenge 2024 
-- 📈 **6th Place** at VCET Hackathon 2024
-- 💫 **Top 28 Rank** at M# Manipal Hackathon 2024
-- 🥇 **1st Place** at Code Crafter Hackathon 2.0
-- 🥉 **3rd Place** in Odoo Hackathon Gujarat Vidyapeeth 2025
-- 🥉 **3rd Place** in Technitude Hackathon by SPJAIN School of Global Management
   
 
 ## 🚀 Tech Stack
 
-| 💻 Programming Languages | 🧠 AI & Machine Learning  | 🤖 AI Agents & Automation |
+| 💻 Programming Languages | 🧠 AI & Machine Learning  | 🤖 AI Agents & Automation | 
 |--------------------------|-------------------------|--------------------------|
 | 🔹 C                     | 🤖 **LLMs**: GPT, LLaMA, Mixtral | ⚡ **CrewAI, AutoGen, LangGraph** |
 | 🔹 C++                   | 🔬 **Fine-Tuning**: LoRA, RLHF, DPO | 🤝 **AI-Orchestrated Workflows** |
@@ -63,11 +40,11 @@
 
 ---
 
-| 🎯 **Computer Vision**   | 📊 **Data Science & NLP** | 🛠️ **Databases & Infra** |
+| 🎯 **Computer Vision**   | 🛠️ **Databases & Infra** |
 |--------------------------|--------------------------|--------------------------|
-| 🕵️‍♂️ **Detection**: YOLO, R-CNN | 📉 **Pandas, NumPy, Seaborn** | 🏛️ **VectorDBs**: FAISS, Pinecone |
-| 🎨 **Segmentation**: SAM, U-Net | 🧠 **NLP**: NER, Sentiment Analysis | 💾 **AstraDB, MongoDB, SQL** |
-| 🎥 **Video Tracking**: SORT, BoT-SORT | ✂️ **Text Summarization** | 🚀 **Langflow, DataStax** |
+| 🕵️‍♂️ **Detection**: YOLO, R-CNN |🏛️ **VectorDBs**: FAISS, Pinecone |
+| 🎨 **Segmentation**: SAM, U-Net | 💾 **AstraDB, MongoDB, SQL** |
+| 🎥 **Video Tracking**: SORT, BoT-SORT | 🚀 **Langflow, DataStax** |
 
 
 ## 🚀 Deployment
@@ -81,9 +58,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/vinayak bhatia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinayak bhatia" height="30" width="40" /></a>
-  <a href="https://instagram.com/vvinayakkk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vvinayakkk" height="30" width="40" /></a>
-  <a href="https://github.com/vvinayakkk" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1200px-GitHub_Invertocat_Logo.svg.png" alt="vvinayakkk" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/ruchithareddy93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ruchitha reddy" height="30" width="40" /></a>
+  <a href="https://instagram.com/ruchita.reddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ruchithare" height="30" width="40" /></a>
+  <a href="https://github.com/Ruchitha1608" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1200px-GitHub_Invertocat_Logo.svg.png" alt="ruchithare" height="30" width="40" /></a>
 </p>
 
 
@@ -174,15 +151,4 @@
   </tr>
 </table>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vvinayakkk&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=vvinayakkk&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vvinayakkk&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vvinayakkk&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=vvinayakkk&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
